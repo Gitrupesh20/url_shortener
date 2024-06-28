@@ -2,7 +2,7 @@
   "name": "shorturl",
   "version": "0.0.3",
   "author": "rupeshSharma",
-  "description": "API project for freeCodeCamp",
+  "description": "API project ",
   "main": "index.js",
   "scripts": {
     "start": "node --watch index.js"
